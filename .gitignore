@@ -1,12 +1,4 @@
-# Django
-*.pyc
-__pycache__/
-db.sqlite3
-db.sqlite3-journal
-
-# Virtual environment
-venv/
-env/
-
-# VS Code
-.vscode/
+__pycache__/ 
+*.pyc 
+db.sqlite3 
+venv/ 
